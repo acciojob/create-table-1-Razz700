@@ -6,4 +6,4 @@ function insert_Row() {
   table.prepend(newRow);
 }
   
-}
+
